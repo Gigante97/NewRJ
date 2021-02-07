@@ -1,0 +1,19 @@
+{
+"family":[
+	{
+	"name":"Marry",
+	"relationship":"mother",
+	"age":46
+	},
+	{
+	"name":"Jhon",
+	"relationship":"father",
+	"age":50
+	},
+	{
+	"name":"Ann",
+	"relationship":"grandmother",
+	"age":86
+	}
+	]
+}
